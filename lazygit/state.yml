@@ -1,0 +1,25 @@
+lastupdatecheck: 0
+recentrepos:
+- /Users/stephen/Github/dat-harmony
+- /Users/stephen/Github/dat-sunrise
+- /Users/stephen/Github/dat-bvac
+- /Users/stephen/Github/dat-glow-retail
+- /Users/stephen/Github/dat-glow-ccdc
+- /Users/stephen/Github/dat-glow
+- /Users/stephen/Github/yc_fireflower
+- /Users/stephen/Github/dat-aviary
+- /Users/stephen/.config
+- /Users/stephen/Github/dat-allium
+startuppopupversion: 5
+lastversion: 0.41.0
+customcommandshistory:
+- qa
+- ""
+- Qa
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
